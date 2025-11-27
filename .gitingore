@@ -1,0 +1,12 @@
+# Python backend
+__pycache__/
+venv/
+.env
+
+# Node frontend
+node_modules/
+dist/
+.env
+
+# Logs
+*.log
